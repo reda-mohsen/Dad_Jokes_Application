@@ -32,6 +32,11 @@ This is a simple GUI application that fetches random dad jokes or allows users t
 ## Usage
 1. Launch the application using the provided script.
 2. Use the "Random" button to fetch and display a random dad joke.
-![Search for Jokes](assets/search.png)
 3. Use the "Search" button to search for jokes based on a specified term.
-![Search for Jokes](assets/search.png)
+4. The jokes are displayed in a listbox in the application window.
+
+## Screenshots
+1. User clicks on random button
+![Dad Jokes Application](assets/random.png)
+2. User clicks on search button after enter a valid search term
+3. ![Dad Jokes Application](assets/search.png)
