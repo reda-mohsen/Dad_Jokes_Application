@@ -36,4 +36,6 @@ This is a simple GUI application that fetches random dad jokes or allows users t
 4. The jokes are displayed in a listbox in the application window.
 
 ## Screenshots
-![Dad Jokes Application](assets/interface.png)
+![Dad Jokes Application Interface](assets/interface.png) <br/>
+![Random Dad Joke](assets/random.png) <br/>
+![Search for Jokes](assets/search.png) <br/>
